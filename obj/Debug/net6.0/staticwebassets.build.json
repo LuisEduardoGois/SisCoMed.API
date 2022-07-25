@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iOR79aR6ioYD5SlcKtprl32y1qAZpBlb1q/OfSBa9dg=",
+  "Source": "SisCoMed.API",
+  "BasePath": "_content/SisCoMed.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

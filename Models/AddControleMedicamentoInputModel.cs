@@ -1,0 +1,16 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace SisCoMed.API.Models
+{
+    public record AddControleMedicamentoInputModel(
+        string Nome,
+        int Lote,
+        DateTime Fabricacao,
+        DateTime Validade)
+    {
+
+    }
+}
